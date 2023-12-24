@@ -47,6 +47,3 @@ I am a Cybersecurity Student <img src="https://media.giphy.com/media/WUlplcMpOCE
 ---
 
 ### ✍️ Blog Posts : 
-
----
-***Credits: This README.md is taken with inspiration from Nida Khan***
