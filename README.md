@@ -42,15 +42,11 @@ I am a Cybersecurity Student <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheZincTZ&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
-
-
-***Credits: This README.md is taken with inspiration from Nida Khan***
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheZincTZ&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ### ✍️ Blog Posts : 
 
+---
+***Credits: This README.md is taken with inspiration from Nida Khan***
