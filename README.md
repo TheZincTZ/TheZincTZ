@@ -14,7 +14,7 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a Cybersecurity Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Singapore.
+I am a Cybersecurity Student from Republic Polytechnic <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Singapore.
 
 - 🔭 I’m currently as a Software Developer and contributing to frontend and backend for building web applications at A*Star ARTC.
 - 🌱 Exploring Cybersecurity Industry hoping to find ways to grow. 
