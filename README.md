@@ -16,7 +16,7 @@
 
 I am a Cybersecurity Student from Republic Polytechnic <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Singapore.
 
-- 🔭 I’m currently as a Software Developer and contributing to frontend and backend for building web applications at A*Star ARTC DSC.
+- 🔭 I’m currently as a Software Developer for both frontend and backend and contributing to frontend and backend for building web applications at A*Star ARTC DSC.
 - 🌱 Exploring Cybersecurity Industry hoping to find ways to grow. 
 - ⚡ In my free time I love to do boxes in TryHackMe and HackTheBox, and read IT articles.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-TheZinc-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ho-zhi-hao)
